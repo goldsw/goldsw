@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&text=test)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&text=아여기에예쁜배경넣고싶다)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-square&logo=windows&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-square&logo=visual%20studio&logoColor=white)
