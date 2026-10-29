@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Winsock](https://img.shields.io/badge/Winsock-0078D6?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-<br/>
+<!-- <br/> -->
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat-square&logo=github&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=flat-square&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-<br/>
+<!-- <br/> -->
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
-<br/>
+<!-- <br/> -->
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-<br/>
+<!-- <br/> -->
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square)
 
