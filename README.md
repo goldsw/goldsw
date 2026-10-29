@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-
+<br/>
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square)
 
