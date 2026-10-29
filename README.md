@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 <!-- <br/> -->
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square)
+<!-- <br/> -->
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 전 청강문화산업대학교 게임잼 TEAM "고구마 쫀득이" 소속 프로그래머
 ("갸오 배터리" 물리 기반 시뮬레이션 게임 개발 참여 / PD, 아키텍처 디자인, 메인 시스템, 테크니컬 아티스트, 3D 리소스, 사운드 디자인, 기획)
