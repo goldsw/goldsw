@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Winsock](https://img.shields.io/badge/Winsock-0078D6?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-**`
-`**
+`
+`
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat-square&logo=github&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=flat-square&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-**`
-`**
+`
+`
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
