@@ -17,24 +17,33 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&text=아여기에예쁜배경넣고싶다)
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![Winsock](https://img.shields.io/badge/Winsock-0078D6?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+## 👋 About Me
+* **물리 시뮬레이션, 그래픽스(OpenGL), 네트워크(WinSock)** 등 로우레벨 원리 탐구와 **유연한 게임 아키텍처 설계**를 즐기는 게임 프로그래머입니다.
+* 상용 엔진(Unity)을 활용한 빠른 게임 제작부터 C++ 기반의 TCP,UDP 서버 구축 / 렌더링 시스템 직접 구현까지 폭넓게 경험하고 있습니다.
+* 📫 **Contact:** ee.seowoo@gmail.com
+
+---
+
+## 🛠 Tech Stack
 <!-- <br/> -->
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat-square&logo=github&logoColor=white)
-![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-<!-- <br/> -->
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
-<!-- <br/> -->
+**Languages**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+**Game Engine & Core Tech**
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Winsock](https://img.shields.io/badge/Winsock-0078D6?style=flat-square)
+![Unreal]
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat-square&logo=github&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
 <!-- <br/> -->
+**Environment & Tools**
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square)
-<!-- <br/> -->
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
