@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * **물리 시뮬레이션, 그래픽스(OpenGL), 네트워크(WinSock)** 등 로우레벨 원리 탐구와 **유연한 아키텍처 설계**를 즐기는 프로그래머입니다.
 * 상용 엔진(Unity)을 활용한 빠른 게임 제작부터 C++ 기반의 TCP,UDP 서버 구축 / 렌더링 시스템 직접 구현까지 폭넓게 경험하고 있습니다.
 * 📫 **Contact:** ee.seowoo@gmail.com
-* ![Notion](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=notion&logoColor=black)
+* ![Notion](https://img.shields.io/badge/notion-00599C?style=flat-square&logo=notion&logoColor=black)
     **Blog** https://app.notion.com/p/LeeSw-d5cf37aed99a8259aafb01a6b67d4a5e?source=copy_link
 
 ---
