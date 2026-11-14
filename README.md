@@ -28,10 +28,12 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 <!-- <br/> -->
 **Languages**
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 **Game Engine & Core Tech**
+
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Winsock](https://img.shields.io/badge/Winsock-0078D6?style=flat-square)
@@ -43,6 +45,7 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
 <!-- <br/> -->
 **Environment & Tools**
+
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
